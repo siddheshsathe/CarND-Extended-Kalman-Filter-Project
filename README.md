@@ -1,4 +1,9 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project
+
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=ZPrjehycV-4"><img src="./end.jpg" alt="Extended Kalman Filter" width="70%" height="70%"></a>
+ <br> Extended Kalman Filter
+</p>
 Self-Driving Car Engineer Nanodegree Program
 
 In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the project rubric. 
@@ -135,6 +140,3 @@ Scanning dependencies of target ExtendedKF
 [100%] Built target ExtendedKF
 siddheshs@siddheshs2:~/programs/udacity/CarND-Extended-Kalman-Filter-Project/build$
 ```
-## End output of simulator2
-Below image is the screenshot of the simulator2 when it's done running a loop
-![alttext](./end.jpg)
